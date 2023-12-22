@@ -21,4 +21,4 @@ No installation is required. Simply clone or download the repository to your loc
 
 ```bash
 git clone https://github.com/Altair-05/Dicee-Game.git
-cd dicee-Game
+cd Dicee-Game
