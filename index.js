@@ -2,6 +2,7 @@
 // // console.log(randomNumber1);
 // var src="images/dice"+randomNumber1+".png";
 // img1.setAttribute("src",src);
+// above part is optional
 var randomNumber1 = Math.floor(Math.random() * 6 + 1);
 var src1 = "images/dice" + randomNumber1 + ".png";
 var imgElements1 = document.querySelectorAll("img")[0];
